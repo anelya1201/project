@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #f3f386;
+}
+
+.agata{
+    background-color: #ffffb9;
+    width: 1000px;
+    display: flex;
+    border-radius: 30px;
+}
+
+.agata img{
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    margin-top: 70px;
+    position: relative;
+    right: 30px;
+    bottom: 20px;
+}
+
+.discover{
+    background-color: #5BB791;
+    width: 800px;
+    height: 550px;
+    border-radius: 20px;
+    position: relative;
+    top: 30px;
+    left: 350px;
+}
+
+.discover h3{
+    display: flex;
+    justify-content: center;
+}
+
+.discover img{
+        position: relative;
+        left: 100px;
+        border-radius: 15px;
+}
+
+.foot{
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+}
+
+.foot p{
+    font-size: 35px;
+}
+
+.foot img{
+    position: relative;
+    left: 1300px;
+    bottom: 100px;
+}
+
+
+.foot h1{
+    font-size: 30px;
+}
